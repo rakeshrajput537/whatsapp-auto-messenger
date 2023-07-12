@@ -11,14 +11,12 @@
 import java.util.*;
 
 public class WhatsappAutoMessenger {
-
 	public static void main(String args[]) {
 
-        // define your messages here
 		String wishes[] = {
-		    "Happy bday", 
-		    "happy again!!",
-		    "Happy bday last time :p"
+		    "Happy bday Raka",
+		    "Again Happy b'day!",
+		    "You are the best person in the world"
 		}; 
 
 		MouseKeyboardControl mouseKeyboardControl = new MouseKeyboardControl();
